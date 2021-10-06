@@ -1,6 +1,6 @@
 # Presentation Slide
 
-Welcome to presentation slide. It makes use of HTML5 and CSS3 concepts to slide the content in form of google slides or powerpoint. 
+Welcome to presentation slide. It makes use of HTML5 and CSS3 concepts in order to show the content in form of google slides or powerpoint. 
 
 <!-- TOC insertAnchor:false -->
 
